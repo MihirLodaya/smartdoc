@@ -1,0 +1,27 @@
+INVOICE
+
+Company: TechCorp Solutions Pvt Ltd
+Invoice Number: INV-2024-001
+Date: 02/08/2024
+
+Bill To:
+Client Corp
+Email: billing@clientcorp.com
+Phone: +91-9876543210
+
+Services:
+- Web Development: $2,000.00
+- UI/UX Design: $800.00
+- SEO Optimization: $500.00
+
+Subtotal: $3,300.00
+GST (18%): $594.00
+Total Amount: $3,894.00
+
+Payment Details:
+GST Number: 27ABCDE1234F1Z9
+PAN: ABCDE1234F
+
+Terms: Payment due within 30 days
+Contact: support@techcorp.com
+Phone: +91-9123456789

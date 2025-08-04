@@ -1,0 +1,8 @@
+INVOICE
+From: ABC Company
+To: XYZ Corp
+Amount: 
+GST: 18%
+Total: 
+Email: billing@abc.com
+Phone: 9876543210
